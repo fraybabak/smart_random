@@ -8,7 +8,7 @@ module.exports.abundanceCalculator = (items) => {
   // we are looping through each pair (keys,values) and pushing to abundances by (total-value)times
   for (let [key, value] of Object.entries(items)) {
     for (let i = 0; i < total - value; i++) {
-      .push(key);
+      abundances.push(key);
     }
   }
   // now we have an array of items with abundance , we can simply just pick from new array.
