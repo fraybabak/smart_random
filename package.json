@@ -1,16 +1,12 @@
 {
   "name": "@babakabadkheir/smart_random",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "smart random tools",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fraybabak/smart_random.git",
-    "email": "keanbabak@gmail.com"
-  },
+  
   "author": "babakabadkheir",
   "license": "MIT",
   "private": false,
@@ -19,6 +15,9 @@
   },
   "bugs": {
     "url": "https://github.com/fraybabak/smart_random/issues"
+  },
+  "repository":{
+    "url":"https://github.com/fraybabak/smart_random.git"
   },
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "homepage": "https://github.com/fraybabak/smart_random#readme"
