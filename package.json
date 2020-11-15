@@ -1,13 +1,13 @@
 {
-  "name": "@babakabadkheir/smart_random",
-  "version": "1.0.0",
+  "name": "@fraybabak/smart_random",
+  "version": "1.0.1",
   "description": "smart random tools",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   
-  "author": "babakabadkheir",
+  "author": "fraybabak",
   "license": "MIT",
   "private": false,
   "engines": {

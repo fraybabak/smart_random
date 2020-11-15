@@ -6,4 +6,4 @@ class RandomSmart {
   }
 }
 
-export default RandomSmart = new RandomSmart();
+module.exports = new RandomSmart();
