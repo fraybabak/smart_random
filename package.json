@@ -1,6 +1,6 @@
 {
   "name": "@fraybabak/smart_random",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "smart random tools",
   "main": "index.js",
   "scripts": {
