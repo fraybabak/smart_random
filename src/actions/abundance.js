@@ -1,4 +1,4 @@
-export const abundanceCalculator = (items) => {
+module.exports.abundanceCalculator = (items) => {
   // items are objects
   let total = 0;
   for (i of Object.values(items)) {
