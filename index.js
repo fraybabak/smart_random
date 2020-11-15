@@ -1,4 +1,4 @@
-import { abundanceCalculator } from './src/actions/abundance';
+const  { abundanceCalculator } = require('./src/actions/abundance')
 
 class RandomSmart {
   aboundance(obj) {
